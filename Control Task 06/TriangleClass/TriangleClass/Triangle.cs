@@ -10,7 +10,7 @@ namespace TriangleClass
     class Triangle
     {
         private double sideA, sideB, sideC;
-        public bool InitializingSides(double a, double b, double c)
+        public bool InitializingSides(double a, double b, double c) //инициализация сторон треугольника и проверка на коррекность введенных сторон
         {
             if (TriangeCheck(a,b,c))
             {
@@ -25,7 +25,7 @@ namespace TriangleClass
                 return false;
             }
         }
-        public void InputSidesValues()
+        public void InputSidesValues() //метод ввода значений сторон треугольника
         {
             Console.WriteLine("Enter the value of the first side: ");
             double a = Convert.ToDouble(Console.ReadLine());
@@ -38,22 +38,22 @@ namespace TriangleClass
 
             InitializingSides(a, b, c);
         }
-        public double PerimeterCount()
+        public double PerimeterCount() //вычисление периметра треугольника
         {
             return sideA + sideB + sideC;
         }
-        public double SquareCount()
+        public double SquareCount() //вычисление площади треугольника
         {
             double square = PerimeterCount() / 2;
             return Math.Sqrt(square * (square - sideA) * (square - sideB) * (square - sideC));
         }
-        public void OutputSidesValues()
+        public void OutputSidesValues() //метод вывода значений сторон треугольника
         {
             Console.WriteLine($"The first tiangle's side: {sideA}");
             Console.WriteLine($"The second tiangle's side: {sideB}");
             Console.WriteLine($"The third tiangle's side: {sideC}");
         }
-        private bool TriangeCheck(double a, double b, double c)
+        private bool TriangeCheck(double a, double b, double c) //метод проверки корректности введенных значений сторон треугольника
         {
             return a + b > c && a + c > b && b + c > a;
         }
