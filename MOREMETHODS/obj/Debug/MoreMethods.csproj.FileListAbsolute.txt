@@ -1,0 +1,6 @@
+C:\Users\RUSLAN\Desktop\MOREMETHODS\bin\Debug\MoreMethods.exe
+C:\Users\RUSLAN\Desktop\MOREMETHODS\bin\Debug\MoreMethods.pdb
+C:\Users\RUSLAN\Desktop\MOREMETHODS\obj\Debug\MoreMethods.csproj.AssemblyReference.cache
+C:\Users\RUSLAN\Desktop\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\RUSLAN\Desktop\MOREMETHODS\obj\Debug\MoreMethods.exe
+C:\Users\RUSLAN\Desktop\MOREMETHODS\obj\Debug\MoreMethods.pdb

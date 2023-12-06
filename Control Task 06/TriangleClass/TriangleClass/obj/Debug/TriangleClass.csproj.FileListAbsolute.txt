@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe.config
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.pdb
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.exe
+D:\C#Learning\Labs\Lab06General\Control Task 06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.pdb
